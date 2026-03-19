@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-npm)",
+      "Read(//Users/juancho/**)",
+      "Bash(npx create-next-app@latest oliva-web --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-npm)",
+      "Bash(cp -r /Users/juancho/oliva-web/. /Users/juancho/OLIVA/)",
+      "Bash(rm -rf /Users/juancho/oliva-web)",
+      "Bash(npm install:*)",
+      "Bash(npx shadcn@latest init -d)"
+    ]
+  }
+}
