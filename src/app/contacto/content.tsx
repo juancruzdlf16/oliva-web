@@ -98,7 +98,7 @@ export function ContactoContent() {
 
               <div className="mt-8 space-y-6">
                 <a
-                  href="https://wa.me/5491100000000?text=Hola!%20Quiero%20consultar%20por%20un%20evento"
+                  href="https://wa.me/5491162183225?text=Hola!%20Quiero%20consultar%20por%20un%20evento"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 rounded-xl border border-border/50 bg-white p-4 transition-all hover:border-[#25D366]/30 hover:shadow-sm"
@@ -110,7 +110,7 @@ export function ContactoContent() {
                   </div>
                   <div>
                     <p className="text-sm font-semibold">WhatsApp</p>
-                    <p className="text-xs text-muted-foreground">+54 9 11 0000-0000</p>
+                    <p className="text-xs text-muted-foreground">+54 9 1162-183225</p>
                   </div>
                 </a>
 
@@ -120,7 +120,7 @@ export function ContactoContent() {
                   </div>
                   <div>
                     <p className="text-sm font-semibold">Teléfono</p>
-                    <p className="text-xs text-muted-foreground">+54 9 11 0000-0000</p>
+                    <p className="text-xs text-muted-foreground">+54 9 1162-183225</p>
                   </div>
                 </div>
 

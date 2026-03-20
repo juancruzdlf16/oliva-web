@@ -55,8 +55,8 @@ export function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center gap-2 text-sm">
                 <Phone className="h-4 w-4 text-olive-light" />
-                <a href="tel:+5491100000000" className="hover:text-white">
-                  +54 9 11 0000-0000
+                <a href="tel:+5491162183225" className="hover:text-white">
+                  +54 9 1162-183225
                 </a>
               </li>
               <li className="flex items-center gap-2 text-sm">
@@ -90,7 +90,7 @@ export function Footer() {
             </div>
             <div className="mt-6">
               <a
-                href="https://wa.me/5491100000000?text=Hola!%20Quiero%20consultar%20por%20un%20evento"
+                href="https://wa.me/5491162183225?text=Hola!%20Quiero%20consultar%20por%20un%20evento"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 rounded-lg bg-[#25D366] px-4 py-2.5 text-sm font-semibold text-white transition-opacity hover:opacity-90"
