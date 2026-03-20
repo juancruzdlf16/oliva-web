@@ -1,0 +1,17 @@
+{
+  "bookedDates": [
+    { "date": "2026-03-21", "label": "Evento privado" },
+    { "date": "2026-03-28", "label": "Casamiento" },
+    { "date": "2026-04-04", "label": "Evento corporativo" },
+    { "date": "2026-04-11", "label": "Cumpleaños de 50" },
+    { "date": "2026-04-18", "label": "Catering empresarial" },
+    { "date": "2026-04-25", "label": "Evento social" },
+    { "date": "2026-05-02", "label": "Casamiento" },
+    { "date": "2026-05-09", "label": "Evento corporativo" },
+    { "date": "2026-05-16", "label": "Fiesta privada" },
+    { "date": "2026-05-23", "label": "Evento social" },
+    { "date": "2026-06-06", "label": "Casamiento" },
+    { "date": "2026-06-13", "label": "Evento corporativo" },
+    { "date": "2026-06-20", "label": "Cumpleaños" }
+  ]
+}
